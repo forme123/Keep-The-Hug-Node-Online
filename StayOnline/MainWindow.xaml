@@ -1,0 +1,42 @@
+﻿<Window x:Class="StayOnline.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StayOnline"
+        mc:Ignorable="d"
+        Title="HugCoin Keep Online" Height="350" Width="525">
+    <StackPanel Margin="8">
+        <Menu>
+            <MenuItem Header="Help" Click="ShowHelp">
+                
+            </MenuItem>
+        </Menu>
+        <Expander x:Name="fixedEX" Expanded="fixedEX_Expanded">
+            <Expander.Header>Execute By A Fixed Minute</Expander.Header>
+            <Expander.Content>
+                <StackPanel>
+                    <Label Content="Please Enter How Much Minute Execute A Time"/>
+                    <TextBox x:Name="countTB" Text="6" PreviewKeyDown="countTB_PreviewKeyDown"/>
+                </StackPanel>
+            </Expander.Content>
+        </Expander>
+        <Expander x:Name="randomEX" Expanded="randomEX_Expanded" >
+            <Expander.Header>In A Area Minite Execute</Expander.Header>
+            <Expander.Content>
+                <StackPanel>
+        <WrapPanel Margin="0,3,0,3">
+            <Label Content="Between"/>
+                        <TextBox x:Name="startcount" Text="3" PreviewKeyDown="countTB_PreviewKeyDown"/>
+            <Label Content="to"/>
+                        <TextBox x:Name="endcount" Text="6" PreviewKeyDown="countTB_PreviewKeyDown"/>
+            <Label Content="Minute Keep Online"/>
+        </WrapPanel>
+                </StackPanel>
+            </Expander.Content>
+        </Expander>
+       
+        <Button x:Name="subBTN" Content="Start" Click="subBTN_Click"/>
+        <Button x:Name="endBTN" Content="End" Click="endBTN_Click" Visibility="Hidden"/>
+    </StackPanel>
+</Window>

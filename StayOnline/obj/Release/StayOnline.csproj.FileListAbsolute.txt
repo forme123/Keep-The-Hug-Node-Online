@@ -1,0 +1,26 @@
+D:\Users\Administrator\documents\visual studio 2015\Projects\StayOnline\StayOnline\bin\Release\StayOnline.exe
+D:\Users\Administrator\documents\visual studio 2015\Projects\StayOnline\StayOnline\bin\Release\StayOnline.pdb
+D:\Users\Administrator\documents\visual studio 2015\Projects\StayOnline\StayOnline\obj\Release\MainWindow.g.cs
+D:\Users\Administrator\documents\visual studio 2015\Projects\StayOnline\StayOnline\obj\Release\App.g.cs
+D:\Users\Administrator\documents\visual studio 2015\Projects\StayOnline\StayOnline\obj\Release\StayOnline_MarkupCompile.cache
+D:\Users\Administrator\documents\visual studio 2015\Projects\StayOnline\StayOnline\obj\Release\StayOnline_MarkupCompile.lref
+D:\Users\Administrator\documents\visual studio 2015\Projects\StayOnline\StayOnline\obj\Release\MainWindow.baml
+D:\Users\Administrator\documents\visual studio 2015\Projects\StayOnline\StayOnline\obj\Release\StayOnline.g.resources
+D:\Users\Administrator\documents\visual studio 2015\Projects\StayOnline\StayOnline\obj\Release\StayOnline.Properties.Resources.resources
+D:\Users\Administrator\documents\visual studio 2015\Projects\StayOnline\StayOnline\obj\Release\StayOnline.csproj.GenerateResource.Cache
+D:\Users\Administrator\documents\visual studio 2015\Projects\StayOnline\StayOnline\obj\Release\StayOnline.exe
+D:\Users\Administrator\documents\visual studio 2015\Projects\StayOnline\StayOnline\obj\Release\StayOnline.pdb
+D:\Users\Administrator\documents\visual studio 2015\Projects\StayOnline\StayOnline\obj\Release\StayOnline.csprojResolveAssemblyReference.cache
+E:\桌面\币\源码\StayOnline\StayOnline\obj\Release\StayOnline.exe
+E:\桌面\币\源码\StayOnline\StayOnline\obj\Release\StayOnline.pdb
+E:\桌面\币\源码\StayOnline\StayOnline\bin\Release\StayOnline.exe
+E:\桌面\币\源码\StayOnline\StayOnline\bin\Release\StayOnline.pdb
+E:\桌面\币\源码\StayOnline\StayOnline\obj\Release\StayOnline.csprojResolveAssemblyReference.cache
+E:\桌面\币\源码\StayOnline\StayOnline\obj\Release\MainWindow.g.cs
+E:\桌面\币\源码\StayOnline\StayOnline\obj\Release\App.g.cs
+E:\桌面\币\源码\StayOnline\StayOnline\obj\Release\StayOnline_MarkupCompile.cache
+E:\桌面\币\源码\StayOnline\StayOnline\obj\Release\StayOnline_MarkupCompile.lref
+E:\桌面\币\源码\StayOnline\StayOnline\obj\Release\MainWindow.baml
+E:\桌面\币\源码\StayOnline\StayOnline\obj\Release\StayOnline.g.resources
+E:\桌面\币\源码\StayOnline\StayOnline\obj\Release\StayOnline.Properties.Resources.resources
+E:\桌面\币\源码\StayOnline\StayOnline\obj\Release\StayOnline.csproj.GenerateResource.Cache
